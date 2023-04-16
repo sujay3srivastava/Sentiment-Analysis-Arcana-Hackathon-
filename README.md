@@ -1,5 +1,5 @@
-# Arcana-Analytics
-Sentiment Prediction and Co-occurrence of stock market data
+# Arcana-Analytics Hackathon
+Public Sentiment Prediction(StockTwits tweets) and Co-occurrence of stocks in tweets
 
 
 ### Installation 
