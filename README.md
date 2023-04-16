@@ -1,5 +1,5 @@
-# Arcana-Hackathon
-Social Media (StockTwits) Public Sentimental Analysis on stocks and Co-occurence of stocks in tweets
+# Arcana-Analytics
+Sentiment Prediction and Co-occurrence of stock market data
 
 
 ### Installation 
@@ -22,6 +22,8 @@ To run the program, enter the directory where the repository has been cloned and
 ```
 streamlit run main.py
 ```
+## Interpreting the results
 
-
+The co occurence graph shows the number of posts in which the selected stock and another stock have been mentioned.
+The sentiment analysis graph provides the overall sentiment of the general public on the selected stock through time. The score of 1 being a completely 'bullish' sentiment and the score of 0 being completely 'bearish' sentiment.
 
